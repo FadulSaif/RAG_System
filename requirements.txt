@@ -1,0 +1,8 @@
+faiss-cpu
+numpy
+pymupdf
+arabic-reshaper
+python-bidi
+requests
+python-dotenv
+huggingface-hub
