@@ -6,3 +6,4 @@ python-bidi
 requests
 python-dotenv
 huggingface-hub
+streamlit

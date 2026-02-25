@@ -4,6 +4,6 @@
 # Ignore Python cache files
 __pycache__/
 
-# Ignore the local vector database files (Optional, but good practice so evaluators build their own)
+# Ignore the local vector database files 
 vector_store.index
 text_data.pkl
