@@ -41,4 +41,5 @@ pip install -r requirements.txt
 
 
   4. Future Enhancements
+     
     A. Optical Character Recognition (OCR): To maintain a lightweight footprint and pure-Python, zero-configuration setup for this evaluation, this pipeline uses direct digital text extraction. For a production deployment, I would integrate EasyOCR or Azure Document Intelligence to process scanned PDFs and extract text from images.
